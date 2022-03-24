@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Emoji-Apps/static/css/main.20148a18.css",
+    "main.js": "/Emoji-Apps/static/js/main.6356223d.js",
+    "index.html": "/Emoji-Apps/index.html",
+    "main.20148a18.css.map": "/Emoji-Apps/static/css/main.20148a18.css.map",
+    "main.6356223d.js.map": "/Emoji-Apps/static/js/main.6356223d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20148a18.css",
+    "static/js/main.6356223d.js"
+  ]
+}
